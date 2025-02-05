@@ -1,0 +1,12 @@
+{
+    "pegasus-instances/soykb/chameleon-cloud/soykb-chameleon-10fastq-10ch-001.json": 1.0,
+    "pegasus-instances/soykb/chameleon-cloud/soykb-chameleon-10fastq-20ch-001.json": 1.0,
+    "pegasus-instances/soykb/chameleon-cloud/soykb-chameleon-20fastq-10ch-001.json": 1.0,
+    "pegasus-instances/soykb/chameleon-cloud/soykb-chameleon-30fastq-10ch-001.json": 1.0,
+    "pegasus-instances/soykb/chameleon-cloud/soykb-chameleon-20fastq-20ch-001.json": 1.0,
+    "pegasus-instances/soykb/chameleon-cloud/soykb-chameleon-40fastq-10ch-001.json": 1.0,
+    "pegasus-instances/soykb/chameleon-cloud/soykb-chameleon-50fastq-10ch-001.json": 1.0,
+    "pegasus-instances/soykb/chameleon-cloud/soykb-chameleon-30fastq-20ch-001.json": 1.0,
+    "pegasus-instances/soykb/chameleon-cloud/soykb-chameleon-40fastq-20ch-001.json": 1.0,
+    "pegasus-instances/soykb/chameleon-cloud/soykb-chameleon-50fastq-20ch-001.json": 1.0
+}
