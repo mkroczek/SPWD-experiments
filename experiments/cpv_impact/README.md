@@ -10,7 +10,7 @@ Max subgraph size is set to the number of nodes in TTSP workflow (workflow is no
 instances were examined for the critical path value increase. Instances
 with positive value were sorted according to CPV increase and 8 of them were selected to
 cover full range of values. Next, selected instances were scheduled on the Gurobi solver and
-the cost increase was measured.
+the cost increase has been measured.
 
 ### Results
 
