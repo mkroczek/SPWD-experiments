@@ -36,6 +36,7 @@ Results have been collected in subfolders for each workflow family. They can be 
 This group is represented by majority of families: 1000Genome, Epigenomics, Seismology, SoyKB, SRA Search. Every sampled
 max subgraph size lead to actual decrease in the problem size, in terms of both number of variables and constraints.
 Example for 1000Genome is shown below.
+
 ![1000genome results](./1000genome/1000genome.png)
 
 ### Problem size increases at first
@@ -44,6 +45,7 @@ This behaviour has been observed for Montage and Cycles workflows. Due to mappin
 SPWD), the number of constraints significantly increases. Number of variables decreases similarly as for other families.
 Workflows from this group need mss to be small enough, to alleviate increased number of constraints. For example Montage
 instance with 1066 nodes needed mss at level of 50% if its nodes to effectively decrease number of constraints.
+
 ![montage results](./montage/montage.png)
 
 ### What causes an increase in the number of constraints
@@ -52,4 +54,5 @@ Negative effect of increased number of constraints is caused by the fact, that m
 number of new paths to workflow. Each path contributes to one constraint in the assumed model, which leads to such
 increase. Figure below shows how did the number of paths increase for few Cycles workflows, after mapping them to TTSP.
 For the biggest workflow it increased more than 20000 times!
+
 ![path_increase](./ttsp_path_increase/ttsp_path_increase_cycles.png)
