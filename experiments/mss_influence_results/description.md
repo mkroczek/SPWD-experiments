@@ -1,6 +1,6 @@
 # Influence of the max subgraph size parameter
 
-The goal of this experiment is to measure how max subgraph size parameter a)ects the
+The goal of this experiment is to measure how max subgraph size parameter affects the
 scheduling cost for selected workflow families.
 
 ### Methodology
